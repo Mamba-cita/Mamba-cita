@@ -21,7 +21,9 @@ Welcome to my professional corner! I'm **Edwin John**, a dedicated Fullstack Web
 
 ## About Me
 
+<p style="text-align: justify; margin: 20px 0; font-size: 1.1em;">
 I'm a results-driven Fullstack Web Developer with a proven track record of delivering high-quality solutions. My journey in programming started with a deep interest in building user-friendly and efficient web applications. I thrive in collaborative environments and am always seeking opportunities to innovate.
+</p>
 
 ## Skills
 
@@ -29,15 +31,18 @@ I'm a results-driven Fullstack Web Developer with a proven track record of deliv
 
 ### Frontend Skills
 
+<p style="text-align: justify; flex-basis: 100%;">
 - HTML <img src="https://img.icons8.com/ios-filled/30/000000/html-5.png" alt="HTML Icon" style="margin-bottom: -6px;"/>
 - CSS <img src="https://img.icons8.com/ios-filled/30/000000/css3.png" alt="CSS Icon" style="margin-bottom: -6px;"/>
 - JavaScript <img src="https://img.icons8.com/ios-filled/30/000000/javascript.png" alt="JavaScript Icon" style="margin-bottom: -6px;"/>
 - React.js <img src="https://img.icons8.com/ios-filled/30/000000/react-native.png" alt="React.js Icon" style="margin-bottom: -6px;"/>
 - Redux <img src="https://img.icons8.com/ios-filled/30/000000/redux.png" alt="Redux Icon" style="margin-bottom: -6px;"/>
 - Responsive Design <img src="https://img.icons8.com/ios-filled/30/000000/responsive.png" alt="Responsive Design Icon" style="margin-bottom: -6px;"/>
+</p>
 
 ### Backend Skills
 
+<p style="text-align: justify; flex-basis: 100%;">
 - Node.js <img src="https://img.icons8.com/ios-filled/30/000000/nodejs.png" alt="Node.js Icon" style="margin-bottom: -6px;"/>
 - Express.js <img src="https://img.icons8.com/ios-filled/30/000000/express.png" alt="Express.js Icon" style="margin-bottom: -6px;"/>
 - RESTful APIs <img src="https://img.icons8.com/ios-filled/30/000000/api.png" alt="API Icon" style="margin-bottom: -6px;"/>
@@ -46,63 +51,22 @@ I'm a results-driven Fullstack Web Developer with a proven track record of deliv
 - Java <img src="https://img.icons8.com/ios-filled/30/000000/java-coffee-cup-logo.png" alt="Java Icon" style="margin-bottom: -6px;"/>
 - C++ <img src="https://img.icons8.com/ios-filled/30/000000/c-plus-plus-logo.png" alt="C++ Icon" style="margin-bottom: -6px;"/>
 - Selenium (Testing) <img src="https://img.icons8.com/ios-filled/30/000000/selenium-test-automation.png" alt="Selenium Icon" style="margin-bottom: -6px;"/>
+</p>
 
 </div>
 
 ## How to Reach Me
 
-<div align="center" style="margin-top: 20px; font-size: 1.2em; animation: fadeInRight 1s ease-out;">
-  <a href="mailto:edwinsjohn52@gmail.com" style="margin-right: 20px; text-decoration: none; color: #0366d6; transition: color 0.3s ease-in-out;"><img src="https://img.icons8.com/material-outlined/24/000000/email.png" alt="Email Icon" style="margin-bottom: -4px;"/> Email</a> |
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE/" target="_blank" style="text-decoration: none; color: #0366d6; transition: color 0.3s ease-in-out;"><img src="https://img.icons8.com/material-outlined/24/000000/linkedin.png" alt="LinkedIn Icon" style="margin-bottom: -4px;"/> LinkedIn</a>
-</div>
-
-## Contact Form
-
-<div align="center" style="margin-top: 20px; animation: fadeInUp 1s ease-out;">
-  <!-- Your contact form HTML goes here -->
-</div>
-
-## House Race at the Footer
-
-<div align="center" style="margin-top: 20px; animation: fadeInUp 1s ease-out;">
-  <img src="https://media.giphy.com/media/YOUR-HOUSE-RACE-GIPHY-ID/giphy.gif" alt="House Race GIF" style="border-radius: 10px; width: 100%;">
-</div>
-
+<p style="text-align: justify; margin: 20px 0; font-size: 1.1em; animation: fadeInRight 1s ease-out;">
 Feel free to explore my skills, and don't hesitate to get in touch if you have any inquiries or collaboration opportunities.
+</p>
 
----
+<div align="center" style="font-size: 1.2em; margin-top: 20px; animation: fadeInUp 1s ease-out;">
 
-<style>
-@keyframes fadeInUp {
-  from {
-    opacity: 0;
-    transform: translateY(20px);
-  }
-  to {
-    opacity: 1;
-    transform: translateY(0);
-  }
-}
+### Contact Form
 
-@keyframes fadeInLeft {
-  from {
-    opacity: 0;
-    transform: translateX(20px);
-  }
-  to {
-    opacity: 1;
-    transform: translateX(0);
-  }
-}
+<!-- Your contact form HTML goes here -->
 
-@keyframes fadeInRight {
-  from {
-    opacity: 0;
-    transform: translateX(-20px);
-  }
-  to {
-    opacity: 1;
-    transform: translateX(0);
-  }
-}
-</style>
+</div>
+
+<div align="center" style="margin-top: 20
