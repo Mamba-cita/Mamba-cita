@@ -6,21 +6,21 @@ I'm a passionate software engineer with a knack for building scalable and effici
 
 <!-- Skills Section -->
 ## 💻 Frontend Skills
-- **HTML** 🌐
-- **CSS** 🎨
+- **HTML*********🌐
+- **CSS** *******🎨
 - **JavaScript** 💡
-- **React.js** ⚛️
-- **Redux** 🔄
-- **Responsive Design** 📱
+- **React.js**** ⚛️
+- **Redux******* 🔄
+
 
 ## 🛠️ Backend Skills
-- **Node.js** 🚀
-- **Express.js** 🛤️
-- **RESTful APIs** 🌐
-- **GraphQL** 🚀
-- **Python** 🐍
-- **Java** ☕
-- **C++** 🧑‍💻
+- **Node.js******** 🚀
+- **Express.js***** 🛤️
+- **RESTful APIs*** 🌐
+- **GraphQL******** 🚀
+- **Python********* 🐍
+- **Java*********** ☕
+- **C++*********** 🧑‍💻
 - **Selenium (Testing)** ⚙️
 
 <!-- Projects Section -->
@@ -28,15 +28,15 @@ I'm a passionate software engineer with a knack for building scalable and effici
 
 <!-- Learning Section -->
 ## 🌱 Learning
-I'm always learning and currently delving into [current learning focus] to stay ahead of the tech curve.
+I'm always learning and currently delving into iOS development to stay ahead of the tech curve.
 
 <!-- Collaboration Section -->
 ## 👯 Collaboration
-I'm open to collaborating on projects related to [specific interests or types of projects]. Let's build something awesome together!
+I'm open to collaborating on projects related to health, logistics, and climate. Let's build something awesome together!
 
 <!-- Looking for Help Section -->
 ## 🤔 Looking for Help
-I'm currently seeking expertise in [specific challenges or problems]. Your insights are highly valued!
+I'm currently seeking expertise in iOS development. Your insights are highly valued!
 
 <!-- Ask Me About Section -->
 ## 💬 Ask Me About
@@ -44,16 +44,22 @@ Feel free to ask me about anything related to web development, software engineer
 
 <!-- Contact Section -->
 ## 📫 Contact Me
-You can reach out to me via [your email] or connect on [LinkedIn](Link to your LinkedIn profile). Let's connect and explore opportunities!
+You can reach out to me via edwinsjohn@gmail.com or connect on [LinkedIn](https://www.linkedin.com/in/john-edwins-a965831a6/). Let's connect and explore opportunities!
 
 <!-- Fun Facts Section -->
-## 😄 Fun Facts
-- **Pronouns:** [Your Pronouns]
-- **⚡ Fun fact:** [Share an interesting or fun fact about yourself].
+## 😄 Fun Fact: C++ vs Python
 
-<!-- Coding GIF Section -->
-## 💻 Coding in Action
-![Coding GIF](Link to your coding GIF)
+Did you know that choosing between C++ and Python is a bit like deciding between a sports car (C++) and a comfy couch (Python)? 🏎️🛋️
+
+**C++ is like a sports car:** It's fast, powerful, and gives you full control over the road (code). You can feel the adrenaline of manual memory management and high-performance execution, but be ready for a thrilling ride with a steeper learning curve!
+
+**Python, on the other hand, is your comfy couch:** It welcomes you with open arms, offering a laid-back and easygoing experience. With its clean syntax and dynamic typing, Python is like sipping a cup of hot cocoa while your code practically writes itself. Who needs semicolons when you have cozy indentation?
+
+Whether you're a speed demon tearing up the racetrack or someone who prefers coding in pajamas, both languages have their own charm. The key is choosing the right tool for the journey ahead! 🚀🐍
+
+
+
 
 <!-- Footer Section -->
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=your_username.your_username)
+Email
+Edwinsjohn@gmail.com
