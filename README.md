@@ -2,8 +2,8 @@
 
 Welcome to my professional corner! I'm **Edwin John**, a dedicated Fullstack Web Developer with a passion for creating robust and elegant web solutions. Explore my skills and experience below.
 
-<div align="center">
-  <img src="https://media.giphy.com/media/YOUR-FIRST-GIPHY-ID/giphy.gif" alt="Programming GIF 1" style="border-radius: 10px;">
+<div align="center" style="background: linear-gradient(to right, #3498db, #2ecc71); padding: 20px; border-radius: 10px; margin: 20px 0;">
+  <img src="https://media.giphy.com/media/YOUR-FIRST-GIPHY-ID/giphy.gif" alt="Programming GIF 1" style="border-radius: 10px; width: 100%;">
 </div>
 
 ## Navigation
@@ -16,14 +16,18 @@ Welcome to my professional corner! I'm **Edwin John**, a dedicated Fullstack Web
 </div>
 
 <div align="center" style="margin-top: 20px;">
-  <img src="https://media.giphy.com/media/YOUR-SECOND-GIPHY-ID/giphy.gif" alt="Programming GIF 2" style="border-radius: 10px;">
+  <img src="https://media.giphy.com/media/YOUR-SECOND-GIPHY-ID/giphy.gif" alt="Programming GIF 2" style="border-radius: 10px; width: 100%;">
 </div>
 
 ## About Me
 
 I'm a results-driven Fullstack Web Developer with a proven track record of delivering high-quality solutions. My journey in programming started with a deep interest in building user-friendly and efficient web applications. I thrive in collaborative environments and am always seeking opportunities to innovate.
 
-## Frontend Skills
+## Skills
+
+<div align="center" style="margin-top: 20px; display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px;">
+
+### Frontend Skills
 
 - HTML <img src="https://img.icons8.com/ios-filled/30/000000/html-5.png" alt="HTML Icon" style="margin-bottom: -6px;"/>
 - CSS <img src="https://img.icons8.com/ios-filled/30/000000/css3.png" alt="CSS Icon" style="margin-bottom: -6px;"/>
@@ -32,7 +36,7 @@ I'm a results-driven Fullstack Web Developer with a proven track record of deliv
 - Redux <img src="https://img.icons8.com/ios-filled/30/000000/redux.png" alt="Redux Icon" style="margin-bottom: -6px;"/>
 - Responsive Design <img src="https://img.icons8.com/ios-filled/30/000000/responsive.png" alt="Responsive Design Icon" style="margin-bottom: -6px;"/>
 
-## Backend Skills
+### Backend Skills
 
 - Node.js <img src="https://img.icons8.com/ios-filled/30/000000/nodejs.png" alt="Node.js Icon" style="margin-bottom: -6px;"/>
 - Express.js <img src="https://img.icons8.com/ios-filled/30/000000/express.png" alt="Express.js Icon" style="margin-bottom: -6px;"/>
@@ -42,6 +46,8 @@ I'm a results-driven Fullstack Web Developer with a proven track record of deliv
 - Java <img src="https://img.icons8.com/ios-filled/30/000000/java-coffee-cup-logo.png" alt="Java Icon" style="margin-bottom: -6px;"/>
 - C++ <img src="https://img.icons8.com/ios-filled/30/000000/c-plus-plus-logo.png" alt="C++ Icon" style="margin-bottom: -6px;"/>
 - Selenium (Testing) <img src="https://img.icons8.com/ios-filled/30/000000/selenium-test-automation.png" alt="Selenium Icon" style="margin-bottom: -6px;"/>
+
+</div>
 
 ## How to Reach Me
 
